@@ -1,1 +1,1 @@
-hi,hello,gud afternoon
+hi,hello
